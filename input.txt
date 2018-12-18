@@ -1,0 +1,6 @@
+Yousef M. Amar
+3.2     5.5  0.0    999.123
+J Edgar Hoover
+     3 5 0     -4324     
+Nikola Tesla
+3 -2.21   12.54354 -4324
